@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://robertcar3.github.io/csb-3xvh9z/static/css/main.09fb3df7.chunk.css",
+    "main.js": "https://robertcar3.github.io/csb-3xvh9z/static/js/main.acc8cb7c.chunk.js",
+    "main.js.map": "https://robertcar3.github.io/csb-3xvh9z/static/js/main.acc8cb7c.chunk.js.map",
+    "runtime-main.js": "https://robertcar3.github.io/csb-3xvh9z/static/js/runtime-main.12a9277b.js",
+    "runtime-main.js.map": "https://robertcar3.github.io/csb-3xvh9z/static/js/runtime-main.12a9277b.js.map",
+    "static/js/2.1eeafacb.chunk.js": "https://robertcar3.github.io/csb-3xvh9z/static/js/2.1eeafacb.chunk.js",
+    "static/js/2.1eeafacb.chunk.js.map": "https://robertcar3.github.io/csb-3xvh9z/static/js/2.1eeafacb.chunk.js.map",
+    "index.html": "https://robertcar3.github.io/csb-3xvh9z/index.html",
+    "static/css/main.09fb3df7.chunk.css.map": "https://robertcar3.github.io/csb-3xvh9z/static/css/main.09fb3df7.chunk.css.map",
+    "static/js/2.1eeafacb.chunk.js.LICENSE.txt": "https://robertcar3.github.io/csb-3xvh9z/static/js/2.1eeafacb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a9277b.js",
+    "static/js/2.1eeafacb.chunk.js",
+    "static/css/main.09fb3df7.chunk.css",
+    "static/js/main.acc8cb7c.chunk.js"
+  ]
+}
